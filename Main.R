@@ -14,7 +14,7 @@ source("analysis/data_simulation.R")
 source("analysis/linear_regression.R")
 
 # 3 Non linear regression analysis
-source("analysis/non_linear_regression.R")
+source("analysis/non_linear_ls.R")
 
 # 4 Compare models 
 source("analysis/compare_models.R")
